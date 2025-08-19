@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/ideal-man-web-application-161088-161097/frontend_react_app"
+}
